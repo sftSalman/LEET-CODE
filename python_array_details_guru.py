@@ -19,7 +19,7 @@ print(balance)
 
 
 # delete the element from array
-
+# I just added the commit
 balance.remove(2)
 print(balance)
 
